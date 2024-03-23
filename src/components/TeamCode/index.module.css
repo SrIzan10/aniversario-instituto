@@ -1,0 +1,11 @@
+.teamCode {
+    /* center left and right only. the div should have dotted lines around them and when you click it should select everything. */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px dotted black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 2rem;
+}
