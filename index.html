@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aniversario Instituto | Gracias!</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: white;
+        }
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #121212;
+            }
+        }
+
+        .mainCard {
+            width: 30%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: #1d1d1d;
+            border-radius: 10px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding: 30px;
+        }
+        @media screen and (max-width: 768px) {
+            .mainCard {
+                width: 70%;
+            }
+        }
+        .right {
+            margin-left: auto;
+        }
+
+        a {
+            text-decoration: none;
+            color: #ff6f61;
+        }
+    </style>
+</head>
+<body>
+    <div class="mainCard">
+        <h1>¡Gracias a todos por participar!</h1>
+        <p>La web se ha cerrado, pero el código fuente está disponible <a href="https://github.com/SrIzan10/aniversario-instituto">aquí</a> bajo la licencia <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a>.</p>
+        <p>Desde aquí también agradecer a las personas que han permitido que la página sea posible ❤️</p>
+        <p class="right">- <a href="https://srizan.dev">Sr Izan</a></p>
+    </div>
+</body>
+</html>

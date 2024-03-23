@@ -1,8 +1,0 @@
-/* add styles to .countdown, here's the text: {timeLeft.days}:{timeLeft.hours}:{timeLeft.minutes}:{timeLeft.seconds}. make it a good looking countdown */
-.countdown {
-  font-size: 2rem;
-  font-weight: bold;
-  color: #333;
-  text-align: center;
-  margin: 1rem 0;
-}
