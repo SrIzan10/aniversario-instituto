@@ -12,8 +12,9 @@ Debido a su publicación con la licencia GNU GPL v3, he añadido algunos comenta
 *La web que se ve si se accede al dominio en este momento se sitúa en [la rama `current`](https://github.com/SrIzan10/aniversario-instituto/tree/current)*
 
 ## Tiempo total de desarrollo
-En total unas 21 horas de escritura activa de código, pero en el editor de código unas 35 horas.
+En total unas 25 horas de escritura activa de código, pero en el editor de código unas 35 horas.
 
+*Tiempo seguido, pero queda varias horas que no se han registrado*
 [![wakatime](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6/project/018d2354-821e-43f5-afe4-174687ac6de3.svg)](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6/project/018d2354-821e-43f5-afe4-174687ac6de3)
 
 ## Tecnologías
@@ -50,8 +51,9 @@ Due to its publication with the GNU GPL v3 license, I have added some comments i
 *The website that is seen if you access the domain at this time is located in [the `current` branch](https://github.com/SrIzan10/aniversario-instituto/tree/current)*
 
 ## Total development time
-In total about 21 hours of active code writing, but in the code editor about 35 hours.
+In total about 25 hours of active code writing, but in the code editor about 35 hours.
 
+*Time tracked, but there's more time that I didn't track*
 [![wakatime](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6/project/018d2354-821e-43f5-afe4-174687ac6de3.svg)](https://wakatime.com/badge/user/4ad16edf-eadc-48d9-b010-26f275fe0be6/project/018d2354-821e-43f5-afe4-174687ac6de3)
 
 ## Technologies
