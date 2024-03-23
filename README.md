@@ -1,6 +1,6 @@
 # Aniversario Instituto
 
-#### [Jump to english](#english)
+#### [Jump to English](#english)
 
 ## Descripción
 
